@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "zb538yXbClwuhHUpONDAyeNh35lW9r7yoXecFy+3Pxg=",
+  "Source": "Projeto_Web-Lh_Pets_Alunos",
+  "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets_Alunos\\wwwroot",
+      "Source": "Projeto_Web-Lh_Pets_Alunos",
+      "ContentRoot": "C:\\Users\\Rayane\\Dropbox\\My PC (DESKTOP-K5K2URN)\\Documents\\PROGRAMADOR\\SQL\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Rayane\\Dropbox\\My PC (DESKTOP-K5K2URN)\\Documents\\PROGRAMADOR\\SQL\\Projeto_Web-Lh_Pets_Alunos\\obj\\Debug\\net9.0\\compressed\\z6sw7ylqub-junj9l9mbp.gz",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rayane\\Dropbox\\My PC (DESKTOP-K5K2URN)\\Documents\\PROGRAMADOR\\SQL\\Projeto_Web-Lh_Pets_Alunos\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index#[.{fingerprint=junj9l9mbp}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Rayane\\Dropbox\\My PC (DESKTOP-K5K2URN)\\Documents\\PROGRAMADOR\\SQL\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "90htqdxyon",
+      "Integrity": "WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Rayane\\Dropbox\\My PC (DESKTOP-K5K2URN)\\Documents\\PROGRAMADOR\\SQL\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Rayane\\Dropbox\\My PC (DESKTOP-K5K2URN)\\Documents\\PROGRAMADOR\\SQL\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rayane\\Dropbox\\My PC (DESKTOP-K5K2URN)\\Documents\\PROGRAMADOR\\SQL\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "junj9l9mbp",
+      "Integrity": "hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Rayane\\Dropbox\\My PC (DESKTOP-K5K2URN)\\Documents\\PROGRAMADOR\\SQL\\Projeto_Web-Lh_Pets_Alunos\\obj\\Debug\\net9.0\\compressed\\z6sw7ylqub-junj9l9mbp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005025125628"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Rayane\\Dropbox\\My PC (DESKTOP-K5K2URN)\\Documents\\PROGRAMADOR\\SQL\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Rayane\\Dropbox\\My PC (DESKTOP-K5K2URN)\\Documents\\PROGRAMADOR\\SQL\\Projeto_Web-Lh_Pets_Alunos\\obj\\Debug\\net9.0\\compressed\\z6sw7ylqub-junj9l9mbp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE="
+        }
+      ]
+    },
+    {
+      "Route": "index.junj9l9mbp.html",
+      "AssetFile": "C:\\Users\\Rayane\\Dropbox\\My PC (DESKTOP-K5K2URN)\\Documents\\PROGRAMADOR\\SQL\\Projeto_Web-Lh_Pets_Alunos\\obj\\Debug\\net9.0\\compressed\\z6sw7ylqub-junj9l9mbp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005025125628"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "junj9l9mbp"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc="
+        }
+      ]
+    },
+    {
+      "Route": "index.junj9l9mbp.html",
+      "AssetFile": "C:\\Users\\Rayane\\Dropbox\\My PC (DESKTOP-K5K2URN)\\Documents\\PROGRAMADOR\\SQL\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "junj9l9mbp"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hdPr0rl9B8WSAfdum2COzgFdxRKDOmICXfSbruTpuuc="
+        }
+      ]
+    },
+    {
+      "Route": "index.junj9l9mbp.html.gz",
+      "AssetFile": "C:\\Users\\Rayane\\Dropbox\\My PC (DESKTOP-K5K2URN)\\Documents\\PROGRAMADOR\\SQL\\Projeto_Web-Lh_Pets_Alunos\\obj\\Debug\\net9.0\\compressed\\z6sw7ylqub-junj9l9mbp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Dec 2022 14:35:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "junj9l9mbp"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WTlzFJlD4xduQUuXi+vyRJpwoUwyJ3lMtS9J658QBSE="
+        }
+      ]
+    }
+  ]
+}
